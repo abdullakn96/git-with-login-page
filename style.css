@@ -265,3 +265,7 @@ html {
   .login-head{
       color: red;
   }
+
+  .login-button{
+      font-weight: bold;
+  }
